@@ -16,4 +16,4 @@
 
 4. 🌐 ##개발 환경
    ----------------
-   + Language : <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>,<img src="https://img.shields.io/badge/JS-ffff00?style=flat&logo=javascript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/JS-ffff00?style=flat-square&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
