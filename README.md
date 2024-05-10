@@ -71,4 +71,4 @@
 
 7. 🖨 실제 발표 자료
    ----------------
-   ![실제 발표 자료 PDF](./Group-by-group Schedule Planner_데브옵스11기 이장우.pdf)
+   ![실제 발표 자료 PDF](Group-by-group Schedule Planner_데브옵스11기 이장우.pdf)
