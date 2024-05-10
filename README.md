@@ -11,9 +11,9 @@
    + 2024.05.02 ~ 2024.05.07 (5일간)
 
 3. 🧑‍🤝‍🧑 ##맴버구성
-  ------------------
+   ----------------
   + 이장우 - 개인 프로젝트
 
 4. 🌐 ##개발 환경
-   -----------------
-   + Language : <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/> 
+   ----------------
+   + Language : <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>,<img src="https://img.shields.io/badge/JS-ffff00?style=flat&logo=javascript&logoColor=white"/>
