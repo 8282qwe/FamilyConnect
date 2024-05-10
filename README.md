@@ -1,4 +1,4 @@
-#Family_Connect(그룹단위 일정 관리 웹페이지 서비스)
+# Family_Connect(그룹단위 일정 관리 웹페이지 서비스)
 -------------------
 [JSP] JSP+HTML+Jquery를 활용한 개인 프로젝트
 
