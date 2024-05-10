@@ -39,18 +39,18 @@
      + 현재 로그인된 User의 오늘 할일, 내일 할일, 다음주 할일을 그룹,개인 상관없이 출력
      + Bootstrap의 아코디언을 사용하여 출력
 
-   +개인 Calendar Page
+   + 개인 Calendar Page
     + Fullcalendar.js를 활용하여 캘린더를 간편하게 랜더링
     + Google API를 활용하여 한국의 공휴일을 가져와서 편하게 랜더링
     + User의 개인 일정만을 가져와서 캘린더에 표현
 
-   +팀원 Calendar Page
+   + 팀원 Calendar Page
     + Fullcalendar.js를 활용하여 캘린더를 간편하게 랜더링
     + Google API를 활용하여 한국의 공휴일을 가져와서 편하게 랜더링
     + User의 초대코드를 기반으로 팀원 일정을 가져와서 캘린더에 표현
     + User가 작성하지 않은 일정은 수정 불가하고 읽기만 가능
 
-   +개인 프로필 수정 Page
+   + 개인 프로필 수정 Page
     + 모든 값을 수정 가능
     + 초대 코드를 수정하여 그룹 수정 가능
     + 밑에 표현된 회원탈퇴 기능을 사용하여 User 정보 삭제 가능
