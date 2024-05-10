@@ -71,4 +71,4 @@
 
 7. 🖨 실제 발표 자료
    ----------------
-   <span src="./Group-by-group Schedule Planner_데브옵스11기 이장우.pdf">실제 발표 자료 PDF</span>
+   [실제 발표 자료 PDF](https://github.com/8282qwe/FamilyConnect/blob/22967ad2cc967f4e3440ab3e431fee9add5f2700/Group-by-group%20Schedule%20Planner_%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A411%EA%B8%B0%20%EC%9D%B4%EC%9E%A5%EC%9A%B0.pdf)
